@@ -136,6 +136,7 @@ font:
 social:
   GitHub: https://github.com/02047788a
   Linkedin: https://www.linkedin.com/in/daedalus1
+  YouTube: https://www.youtube.com/user/02047788a
 
 
 # Social Links Icons
@@ -148,8 +149,8 @@ social_icons:
   # Icon Mappings.
   # KeyMapsToSocialItemKey: NameOfTheIconFromFontAwesome
   GitHub: github
-  Twitter: twitter
   Linkedin: linkedin
+  YouTube: youtube
 
 
 # Sidebar Avatar

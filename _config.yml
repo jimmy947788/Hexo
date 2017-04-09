@@ -86,9 +86,10 @@ baidusitemap:
   
 nofollow:
   enable: true
-  # exclude:
+  exclude:
   # - cccbid.com
   # - canchamp.com
+  - blog.johnwu.cc
 
 feed:
   type: atom

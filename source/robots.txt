@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+Allow: /archives/
+Allow: /categories/
+Allow: /tags/
+
+Disallow: /css/
+Disallow: /images/
+Disallow: /js/
+Disallow: /lib/
+
+Sitemap: http://blog.jimmywu.cc/sitemap.xml
+Sitemap: http://blog.jimmywu.cc/baidusitemap.xml

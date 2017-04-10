@@ -2,6 +2,7 @@ title: ' [Xamarin.Forms] 16 使用SQLite ~分層式程式架構~'
 author: Jimmy Wu
 tags:
   - Xamarin
+  - 使用SQLite
 categories:
   - Xamarin
 date: 2017-04-03 00:00:00

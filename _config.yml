@@ -3,9 +3,9 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Jimmy Wu
-subtitle: 簡單不想寫，太難不會寫。
-description: 正在培養寫部落格的Web工程師，擅長.NET MVC、Angular。同時在學習Scrum及Agile。
+title: 我是吳吉掰米
+subtitle: 不受限的技術狂人
+description: 每個階段都有想玩的技術腦袋沒極限技術也不會停滯。
 author: Jimmy Wu
 language: default
 timezone: Asia/Taipei
@@ -14,7 +14,7 @@ timezone: Asia/Taipei
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: http://blog.jimmywu.cc
 root: /
-permalink: :title.html
+permalink: article/:title.html
 permalink_defaults:
 
 # Directory
@@ -90,6 +90,7 @@ nofollow:
   # - cccbid.com
   # - canchamp.com
   - blog.johnwu.cc
+  - blackie1019.github.io
 
 feed:
   type: atom
